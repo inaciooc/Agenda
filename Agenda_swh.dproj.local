@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/15 18:14:47.000.295,=C:\Users\inaci\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/15 18:17:49.000.976,C:\Users\inaci\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=D:\Progrmação 2022\DELPHI\Projects\Agenda_swh\UnitPrincipal.pas</Transaction>
+    <Transaction>2022/08/15 18:17:49.000.976,C:\Users\inaci\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=D:\Progrmação 2022\DELPHI\Projects\Agenda_swh\UnitPrincipal.dfm</Transaction>
+    <Transaction>2022/08/15 18:18:13.000.502,C:\Users\inaci\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=D:\Progrmação 2022\DELPHI\Projects\Agenda_swh\Agenda_swh.dproj</Transaction>
+    <Transaction>2022/08/15 18:22:31.000.535,=D:\Progrmação 2022\DELPHI\Projects\Agenda_swh\Unit1.pas</Transaction>
+    <Transaction>2022/08/15 19:37:55.000.637,D:\Progrmação 2022\DELPHI\Projects\Agenda_swh\Unit1.dfm=D:\Progrmação 2022\DELPHI\Projects\Agenda_swh\UnitMdl.dfm</Transaction>
+    <Transaction>2022/08/15 19:37:55.000.637,D:\Progrmação 2022\DELPHI\Projects\Agenda_swh\Unit1.pas=D:\Progrmação 2022\DELPHI\Projects\Agenda_swh\UnitMdl.pas</Transaction>
+    <Transaction>2022/08/15 19:39:38.000.376,=D:\Progrmação 2022\DELPHI\Projects\Agenda_swh\Unit1.pas</Transaction>
+    <Transaction>2022/08/15 22:17:13.000.972,D:\Progrmação 2022\DELPHI\Projects\Agenda_swh\Unit1.pas=D:\Progrmação 2022\DELPHI\Projects\Agenda_swh\UnitLogin.pas</Transaction>
+    <Transaction>2022/08/15 22:17:13.000.972,D:\Progrmação 2022\DELPHI\Projects\Agenda_swh\Unit1.dfm=D:\Progrmação 2022\DELPHI\Projects\Agenda_swh\UnitLogin.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
